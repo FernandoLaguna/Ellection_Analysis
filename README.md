@@ -52,4 +52,4 @@ file_to_load = os.path.join("Resources", "election_results.csv")
 2. The second thing to consider is having the data organized in the same way that it is organized now. For instance:
 
 
-![Data](imagen_datos.png)
+![Data](imagen_datos.png.png)
